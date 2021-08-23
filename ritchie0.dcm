@@ -1,0 +1,18 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ADS1115
+D IC ADC 16BIT SIGMA-DELTA 10VSSOP
+F https://www.ti.com/lit/ds/symlink/ads1113-q1.pdf?HQS=dis-dk-null-digikeymode-dsf-pf-null-wwe&ts=1629688914163
+$ENDCMP
+#
+$CMP R-78E5.0-1.0
+D DC DC CONVERTER 5V 5W
+F https://recom-power.com/pdf/Innoline/R-78E-1.0.pdf
+$ENDCMP
+#
+$CMP TMP235AQDBZTQ1
+D IC TEMP SENSOR
+F https://www.ti.com/lit/ds/symlink/tmp235-q1.pdf?HQS=dis-dk-null-digikeymode-dsf-pf-null-wwe&ts=1629692197023&ref_url=https%253A%252F%252Fwww.ti.com%252Fgeneral%252Fdocs%252Fsuppproductinfo.tsp%253FdistId%253D10%2526gotoUrl%253Dhttps%253A%252F%252Fwww.ti.com%252Flit%252Fgpn%252Ftmp235-q1
+$ENDCMP
+#
+#End Doc Library
